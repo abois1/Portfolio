@@ -1,3 +1,3 @@
-#Git to Know Me 
+# Git to Know Me 
 
-###What Makes Object Oriented Design Integral to How I think about Coding/Programming/Computer science?
+### What Makes Object Oriented Design Integral to How I think about Coding/Programming/Computer science?
