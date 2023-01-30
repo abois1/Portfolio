@@ -8,7 +8,7 @@
 
 ### How will I continue learning about Computer Science?
 
-  Computer Science plays a big role in   
+  Computer Science plays a big role in in many people's lives, whether they know it or not. I surrounds us in our daily lives, so it's important to stay knowledgeable about the subject. 
 
 ### Summary of working with Khan Academy.
 
