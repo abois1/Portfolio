@@ -8,7 +8,9 @@
 
 ### How will I continue learning about Computer Science?
 
-  Computer Science plays a big role in in many people's lives, whether they know it or not. I surrounds us in our daily lives, so it's important to stay knowledgeable about the subject. I believe everyone (to an extent) has learned something from Computer Science, whether it be from from using various programs or taking learning head-on. Learning Computer Science will shape the way we see the world and the way we think. Examples of this would be as simple as evaluating situations based on true/false like boolean code to something as straight forward as 
+  Computer Science plays a big role in in many people's lives, whether they know it or not. I surrounds us in our daily lives, so it's important to stay knowledgeable about the subject. I believe everyone (to an extent) has learned something from Computer Science, whether it be from from using various programs or taking learning head-on. Learning Computer Science will shape the way we see the world and the way we think. Examples of this would be as simple as iterating through tasks the same way a method iterates through an array, to something as straight forward as learning on web based services such as Khan Academy or free Coding Camp.
+  
+  That being said, it can be a bit disorienting to try and tackle the world of Computer Science on your own. The way I would continue to learn about Computer Science would be to embed Computer Science in my life. This would mean immersing myself in the languages of Computer Science and the idea of looking at my life through the lense of a programmer. This will ensure that my current skills stay sharp and to improve on the foundation that I currently possess.
 
 ### Summary of working with Khan Academy.
 
