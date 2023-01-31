@@ -8,7 +8,7 @@
 
 ### How will I continue learning about Computer Science?
 
-  Computer Science plays a big role in in many people's lives, whether they know it or not. I surrounds us in our daily lives, so it's important to stay knowledgeable about the subject. I believe everyone (to an extent) has learned something from Computer Science, whether it be from 
+  Computer Science plays a big role in in many people's lives, whether they know it or not. I surrounds us in our daily lives, so it's important to stay knowledgeable about the subject. I believe everyone (to an extent) has learned something from Computer Science, whether it be from from using various programs or taking learning head-on. Learning Computer Science will shape the way we see the world and the way we think. Examples of this would be as simple as evaluating situations based on true/false like boolean code to something as straight forward as 
 
 ### Summary of working with Khan Academy.
 
